@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Amin
 
+I'm a Full Stack developer from Republic of Dagestan(Russia).
+
+Find me around the web🌍:
+- **[Vkontakte](http://vk.com/Aminpwnz)**
+- **[Facebook](https://www.facebook.com/amin.saypudinov/)**
 <!--
 **Aminsayp/Aminsayp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
