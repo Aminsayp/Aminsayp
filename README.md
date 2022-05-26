@@ -3,6 +3,7 @@
 I'm a Full Stack developer from Republic of Dagestan(Russia).
 
 Find me around the web🌍:
+- **[Telegram](https://t.me/Aminpwnz)**
 - **[Vkontakte](http://vk.com/Aminpwnz)**
 - **[Facebook](https://www.facebook.com/amin.saypudinov/)**
 <!--
